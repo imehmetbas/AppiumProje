@@ -1,0 +1,16 @@
+[
+
+  {
+    "key": "tamambuton",
+    "value": "//androidx.cardview.widget.CardView[@content-desc=\"campaignButton2\"]/android.view.ViewGroup/android.widget.LinearLayout/android.widget.TextView[2]"	,
+    "type": "xpath"
+  },
+
+  {
+    "key": "tamambuton2",
+    "value": "//androidx.cardview.widget.CardView[@content-desc=\"campaignButton2\"]/android.view.ViewGroup/android.widget.LinearLayout/android.widget.TextView[2]",
+    "type": "xpath"
+  }
+
+
+]
